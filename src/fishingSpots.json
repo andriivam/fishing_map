@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Law Courts of Brussels",
+        "description": "Built in an eclectic neoclassical style, this huge court building is the highest court in the land.",
+        "lat": 50.83803466383976,
+        "long": 4.352178591417977
+    },
+    {
+        "name": "CHU Saint-Pierre",
+        "description": "University hospital",
+        "lat": 50.83445971988824,
+        "long": 4.347179382840939
+    },
+    {
+        "name": "Brussels Canal",
+        "description": "A lot of peaceful fish",
+        "lat": 50.80819452580353,
+        "long": 4.296988659070759
+    }
+]
