@@ -1,15 +1,15 @@
 [
     {
-        "name": "Law Courts of Brussels",
-        "description": "Built in an eclectic neoclassical style, this huge court building is the highest court in the land.",
-        "lat": 50.83803466383976,
-        "long": 4.352178591417977
+        "name": "Sept-Fontaines",
+        "description": "Nice place to rest. Also you can fish zander, pike and carp",
+        "lat": 50.72261760725701,
+        "long": 4.327277139945994
     },
     {
-        "name": "CHU Saint-Pierre",
-        "description": "University hospital",
-        "lat": 50.83445971988824,
-        "long": 4.347179382840939
+        "name": "L' Etang Du Vivier",
+        "description": "Private lake for trout fishing",
+        "lat": 50.36305645469998,
+        "long": 4.613223955274358
     },
     {
         "name": "Brussels Canal",
