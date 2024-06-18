@@ -1,20 +1,26 @@
 [
     {
+        "id": 1,
         "name": "Sept-Fontaines",
         "description": "Nice place to rest. Also you can fish zander, pike and carp",
         "lat": 50.72261760725701,
-        "long": 4.327277139945994
+        "long": 4.327277139945994,
+        "color": "yellow"
     },
     {
+        "id": 2,
         "name": "L' Etang Du Vivier",
         "description": "Private lake for trout fishing",
         "lat": 50.36305645469998,
-        "long": 4.613223955274358
+        "long": 4.613223955274358,
+        "color": "red"
     },
     {
+        "id": 3,
         "name": "Brussels Canal",
         "description": "A lot of peaceful fish",
         "lat": 50.80819452580353,
-        "long": 4.296988659070759
+        "long": 4.296988659070759,
+        "color": "yellow"
     }
 ]

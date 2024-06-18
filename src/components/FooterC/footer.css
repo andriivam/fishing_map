@@ -1,0 +1,14 @@
+.footer {
+  background-color: #5f8575;
+  width: 100%;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  padding: 5px 0;
+}
+
+.footer_link {
+  text-decoration: none;
+  color: inherit;
+  cursor: pointer;
+}
