@@ -1,9 +1,9 @@
 import React from 'react';
 import './map.css';
 import { MapContainer, TileLayer, Marker, Popup } from 'react-leaflet'
-import fishingSpots from '../../fishingSpots.json';
 
-const Map = () => {
+
+const Map = ({ fishingSpots }) => {
 
 
     return (

@@ -1,0 +1,32 @@
+.btnContainer {
+  display: flex;
+}
+
+.btn {
+  background-color: #3498db;
+  font-family: Arial, sans-serif;
+  color: white;
+  border: none;
+  font-size: 1rem;
+  align-items: center;
+  cursor: pointer;
+  outline: none;
+  transition: background-color 0.3s ease, transform 0.3s ease;
+  border-radius: 5px;
+  width: 25%;
+  padding: 5px;
+  margin: 5px;
+}
+
+.btn:hover {
+  background-color: #2980b9;
+  transform: scale(1.05);
+}
+
+.btn:focus {
+  box-shadow: 0 0 0 3px rgba(52, 152, 219, 0.5);
+}
+
+.btn:active {
+  transform: scale(0.95);
+}
