@@ -12,7 +12,7 @@ const Header = () => {
     return (
         <div className="header-container">
             <div className="header">
-                <h2>Fishing Map</h2>
+                <h2>Карта для рибалок Бельгії</h2>
             </div>
             <div className="icons_wrapper">
                 <div className="icons-item">

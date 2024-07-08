@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "Sept-Fontaines",
-        "description": "Nice place to rest. Also you can fish zander, pike and carp",
+        "description": "Дуже гарне місце для відпочинку і риболовлі. Є щука, судак і короп. ",
         "lat": 50.72261760725701,
         "long": 4.327277139945994,
         "color": "yellow"
@@ -10,7 +10,7 @@
     {
         "id": 2,
         "name": "L' Etang Du Vivier",
-        "description": "Private lake for trout fishing",
+        "description": "Платне озеро для риболовлі на форель. Ціна за день 50 євро / половона дня 30 євро. Є магазин де можна купити все що забули взяти.",
         "lat": 50.36305645469998,
         "long": 4.613223955274358,
         "color": "red"
@@ -18,7 +18,7 @@
     {
         "id": 3,
         "name": "Brussels Canal",
-        "description": "A lot of peaceful fish",
+        "description": "Переважно присутній ляж хоча також можна зловити коропа, карася і краснопірку",
         "lat": 50.80819452580353,
         "long": 4.296988659070759,
         "color": "yellow"
