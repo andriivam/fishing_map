@@ -1,0 +1,8 @@
+.leaflet-popup-content-wrapper.custom,
+.leaflet-popup-tip.custom {
+}
+
+.leaflet-popup-content-wrapper,
+.leaflet-popup-tip {
+  /* background-color: var(--popup-color) !important; */
+}
